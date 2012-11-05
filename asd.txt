@@ -24,4 +24,9 @@ public class Clase1
 	{
 
 	}
+
+	public void Main(View view)
+	{
+		
+	}
 }
