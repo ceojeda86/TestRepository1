@@ -29,4 +29,8 @@ public class Clase1
 	{
 		print("Hola Mundo!");
 	}
+
+	public void Perro()
+	{
+	}
 }
