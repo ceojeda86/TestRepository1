@@ -16,3 +16,12 @@ cvxchgfgfgh
 abcdefg
 
 hola hola hola
+
+
+public class Clase1
+{
+	public void Clase1
+	{
+
+	}
+}
