@@ -31,6 +31,10 @@ public class Clase1
 	}
 
 	public void gato(){
+}
 
+	public void Perro()
+	{
+Test/master
 	}
 }
